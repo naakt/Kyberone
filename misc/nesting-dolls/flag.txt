@@ -1,0 +1,1 @@
+CTF{infinite_loops_are_rough}
